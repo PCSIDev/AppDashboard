@@ -5,36 +5,14 @@ body {
   box-sizing: border-box;
 }
 
-.App {
-  text-align: center;
-}
-
-nav {
-  background-color: #282c34;
-  padding: 1rem;
-}
-
-nav ul {
-  list-style-type: none;
-  padding: 0;
-}
-
-nav ul li {
-  display: inline;
-  margin: 0 10px;
-}
-
-nav ul li a {
-  color: white;
+a {
   text-decoration: none;
 }
 
-nav ul li a:hover {
-  text-decoration: underline;
+h1 {
+  color: #333;
 }
 
-.div {
-
-  background-color: red;
-
+p {
+  color: #666;
 }

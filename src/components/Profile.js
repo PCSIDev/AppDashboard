@@ -4,7 +4,7 @@ const Profile = () => {
   return (
     <div>
       <h1>Profile Page</h1>
-      <p>Nitesh</p>
+      <p>This is the Profile Page.</p>
     </div>
   );
 };
